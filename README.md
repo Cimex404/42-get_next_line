@@ -3,7 +3,7 @@
 This is a 42 project that teaches about static variable and provides a useful function for the upcoming projects.
 
 By using the "make" command, you can compile the program. The Makefile will also create a TestFile.txt file with the content of the lines to test the program.
-The program takes two arguements "filename" "number of lines"
+The program takes two arguments "filename" "number of lines"
 Run the program as follows:
 
 ```bash
@@ -21,4 +21,4 @@ The main function will then print the line.
 
 ## What are static variables?
 
-Static variables are variables that are declared at the beginnin of a function, but when the function is called again, the variable has retained its value from the previous call.
+Static variables are variables that are declared at the beginning of a function, but when the function is called again, the variable has retained its value from the previous call.
